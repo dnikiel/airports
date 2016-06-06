@@ -1,0 +1,47 @@
+.airports-aside {
+  padding: 25px;
+  width: 350px;
+
+  .aside-title {
+    font-size: 16px;
+    margin: 0;
+  }
+
+  .aside-description {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 8px 0 48px;
+  }
+}
+
+.country-row {
+  display: flex;
+  line-height: 1;
+  align-items: center;
+
+  p {
+    font-size: 14px;
+    margin: 0;
+  }
+
+  .country-name {
+    flex-basis: 50%;
+  }
+
+  .country-airports {
+    flex-basis: 10%;
+  }
+
+  .row-right {
+    flex-basis: 40%;
+  }
+}
+
+.country-row + .country-row {
+  margin-top: 20px;
+}
+
+.country-bar {
+  background-color: #ccc;
+  height: 20px;
+}

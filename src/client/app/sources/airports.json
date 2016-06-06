@@ -1,0 +1,351 @@
+[{
+	"Rank": 1,
+	"Name": "Hartsfield–Jackson Atlanta International Airport",
+	"City": "Atlanta",
+	"Coordinates (Lat, Lng)": "33.636667, -84.428056",
+	"Country": "United States",
+	"Passengers": 101491106
+}, {
+	"Rank": 2,
+	"Name": "Beijing Capital International Airport",
+	"City": "Beijing",
+	"Coordinates (Lat, Lng)": "40.0725, 116.5975",
+	"Country": "China",
+	"Passengers": 89938628
+}, {
+	"Rank": 3,
+	"Name": "Dubai International Airport",
+	"City": "Dubai",
+	"Coordinates (Lat, Lng)": "25.252778, 55.364444",
+	"Country": "United Arab Emirates",
+	"Passengers": 78014841
+}, {
+	"Rank": 4,
+	"Name": "O'Hare International Airport",
+	"City": "Chicago",
+	"Coordinates (Lat, Lng)": "41.978611, -87.904722",
+	"Country": "United States",
+	"Passengers": 76942493
+}, {
+	"Rank": 5,
+	"Name": "Tokyo Haneda Airport",
+	"City": "Tokyo",
+	"Coordinates (Lat, Lng)": "35.553333, 139.781111",
+	"Country": "Japan",
+	"Passengers": 75316718
+}, {
+	"Rank": 6,
+	"Name": "London Heathrow Airport",
+	"City": "London",
+	"Coordinates (Lat, Lng)": "51.4775, -0.461389",
+	"Country": "United Kingdom",
+	"Passengers": 74989795
+}, {
+	"Rank": 7,
+	"Name": "Los Angeles International Airport",
+	"City": "Los Angeles",
+	"Coordinates (Lat, Lng)": "33.9425, -118.408056",
+	"Country": "United States",
+	"Passengers": 74937004
+}, {
+	"Rank": 8,
+	"Name": "Hong Kong International Airport",
+	"City": "Hong Kong",
+	"Coordinates (Lat, Lng)": "22.308889, 113.914444",
+	"Country": "Hong Kong",
+	"Passengers": 68283407
+}, {
+	"Rank": 9,
+	"Name": "Paris-Charles de Gaulle Airport",
+	"City": "Paris",
+	"Coordinates (Lat, Lng)": "49.009722, 2.547778",
+	"Country": "France",
+	"Passengers": 65766986
+}, {
+	"Rank": 10,
+	"Name": "Dallas/Fort Worth International Airport",
+	"City": "Dallas-Fort Worth",
+	"Coordinates (Lat, Lng)": "32.896944, -97.038056",
+	"Country": "United States",
+	"Passengers": 64072468
+}, {
+	"Rank": 11,
+	"Name": "Istanbul Atatürk Airport",
+	"City": "Istanbul",
+	"Coordinates (Lat, Lng)": "40.976111, 28.814167",
+	"Country": "Turkey",
+	"Passengers": 61836781
+}, {
+	"Rank": 12,
+	"Name": "Frankfurt International Airport",
+	"City": "Frankfurt",
+	"Coordinates (Lat, Lng)": "50.033333, 8.570556",
+	"Country": "Germany",
+	"Passengers": 61032022
+}, {
+	"Rank": 13,
+	"Name": "Shanghai Pudong International Airport",
+	"City": "Shanghai",
+	"Coordinates (Lat, Lng)": "31.143333, 121.805278",
+	"Country": "China",
+	"Passengers": 60053387
+}, {
+	"Rank": 14,
+	"Name": "Amsterdam Airport Schiphol",
+	"City": "Amsterdam",
+	"Coordinates (Lat, Lng)": "52.308056, 4.764167",
+	"Country": "The Netherlands",
+	"Passengers": 58284864
+}, {
+	"Rank": 15,
+	"Name": "John F. Kennedy International Airport",
+	"City": "New York",
+	"Coordinates (Lat, Lng)": "40.639722, -73.778889",
+	"Country": "United States",
+	"Passengers": 56827154
+}, {
+	"Rank": 16,
+	"Name": "Singapore Changi Airport",
+	"City": "Singapore",
+	"Coordinates (Lat, Lng)": "1.359211, 103.989306",
+	"Country": "Singapore",
+	"Passengers": 55449000
+}, {
+	"Rank": 17,
+	"Name": "Guangzhou Baiyun International Airport",
+	"City": "Guangzhou",
+	"Coordinates (Lat, Lng)": "23.3925, 113.298889",
+	"Country": "China",
+	"Passengers": 55201915
+}, {
+	"Rank": 18,
+	"Name": "Soekarno-Hatta International Airport",
+	"City": "Jakarta",
+	"Coordinates (Lat, Lng)": "-6.125556, 106.655833",
+	"Country": "Indonesia",
+	"Passengers": 54053905
+}, {
+	"Rank": 19,
+	"Name": "Denver International Airport",
+	"City": "Denver",
+	"Coordinates (Lat, Lng)": "39.861667, -104.673056",
+	"Country": "United States",
+	"Passengers": 54014502
+}, {
+	"Rank": 20,
+	"Name": "Suvarnabhumi Airport",
+	"City": "Bangkok",
+	"Coordinates (Lat, Lng)": "13.6925, 100.75",
+	"Country": "Thailand",
+	"Passengers": 52808013
+}, {
+	"Rank": 21,
+	"Name": "San Francisco International Airport",
+	"City": "San Francisco",
+	"Coordinates (Lat, Lng)": "37.618889, -122.375",
+	"Country": "United States",
+	"Passengers": 50057887
+}, {
+	"Rank": 22,
+	"Name": "Seoul Incheon International Airport",
+	"City": "Seoul",
+	"Coordinates (Lat, Lng)": "37.463333, 126.44",
+	"Country": "Republic of Korea",
+	"Passengers": 49412750
+}, {
+	"Rank": 23,
+	"Name": "Kuala Lumpur International Airport",
+	"City": "Kuala Lumpur",
+	"Coordinates (Lat, Lng)": "2.743333, 101.698056",
+	"Country": "Malaysia",
+	"Passengers": 48938424
+}, {
+	"Rank": 24,
+	"Name": "Madrid Barajas Airport",
+	"City": "Madrid",
+	"Coordinates (Lat, Lng)": "40.472222, -3.560833",
+	"Country": "Spain",
+	"Passengers": 46779554
+}, {
+	"Rank": 25,
+	"Name": "Indira Gandhi International Airport",
+	"City": "Delhi",
+	"Coordinates (Lat, Lng)": "28.568611, 77.112222",
+	"Country": "India",
+	"Passengers": 45981773
+}, {
+	"Rank": 26,
+	"Name": "McCarran International Airport",
+	"City": "Las Vegas",
+	"Coordinates (Lat, Lng)": "36.08, -115.152222",
+	"Country": "United States",
+	"Passengers": 45356580
+}, {
+	"Rank": 27,
+	"Name": "Charlotte Douglas International Airport",
+	"City": "Charlotte",
+	"Coordinates (Lat, Lng)": "35.213889, -80.943056",
+	"Country": "United States",
+	"Passengers": 44876627
+}, {
+	"Rank": 28,
+	"Name": "Miami International Airport",
+	"City": "Miami",
+	"Coordinates (Lat, Lng)": "25.793333, -80.290556",
+	"Country": "United States",
+	"Passengers": 44350247
+}, {
+	"Rank": 29,
+	"Name": "Phoenix Sky Harbor International Airport",
+	"City": "Phoenix",
+	"Coordinates (Lat, Lng)": "33.434167, -112.011667",
+	"Country": "United States",
+	"Passengers": 44003840
+}, {
+	"Rank": 30,
+	"Name": "George Bush Intercontinental Airport",
+	"City": "Houston",
+	"Coordinates (Lat, Lng)": "29.984444, -95.341389",
+	"Country": "United States",
+	"Passengers": 43023224
+}, {
+	"Rank": 31,
+	"Name": "Seattle-Tacoma International Airport",
+	"City": "Seattle",
+	"Coordinates (Lat, Lng)": "47.448889, -122.309444",
+	"Country": "United States",
+	"Passengers": 42340461
+}, {
+	"Rank": 32,
+	"Name": "Chengdu Shuangliu International Airport",
+	"City": "Chengdu",
+	"Coordinates (Lat, Lng)": "30.578333, 103.946944",
+	"Country": "China",
+	"Passengers": 42244842
+}, {
+	"Rank": 33,
+	"Name": "Toronto Pearson International Airport",
+	"City": "Toronto",
+	"Coordinates (Lat, Lng)": "43.676667, -79.630556",
+	"Country": "Canada",
+	"Passengers": 41036847
+}, {
+	"Rank": 34,
+	"Name": "Munich Airport",
+	"City": "Munich",
+	"Coordinates (Lat, Lng)": "48.353889, 11.786111",
+	"Country": "Germany",
+	"Passengers": 40981522
+}, {
+	"Rank": 35,
+	"Name": "Chhatrapati Shivaji International Airport",
+	"City": "Mumbai",
+	"Coordinates (Lat, Lng)": "19.088611, 72.868056",
+	"Country": "India",
+	"Passengers": 40637377
+}, {
+	"Rank": 36,
+	"Name": "Leonardo da Vinci–Fiumicino Airport",
+	"City": "Rome",
+	"Coordinates (Lat, Lng)": "41.800278, 12.238889",
+	"Country": "Italy",
+	"Passengers": 40422156
+}, {
+	"Rank": 37,
+	"Name": "London Gatwick Airport",
+	"City": "London",
+	"Coordinates (Lat, Lng)": "51.148056, -0.190278",
+	"Country": "United Kingdom",
+	"Passengers": 40271343
+}, {
+	"Rank": 38,
+	"Name": "Sydney Kingsford-Smith Airport",
+	"City": "Sydney",
+	"Coordinates (Lat, Lng)": "-33.946111, 151.177222",
+	"Country": "Australia",
+	"Passengers": 39914103
+}, {
+	"Rank": 39,
+	"Name": "Shenzhen Bao'an International Airport",
+	"City": "Shenzhen",
+	"Coordinates (Lat, Lng)": "22.639444, 113.810833",
+	"Country": "China",
+	"Passengers": 39721619
+}, {
+	"Rank": 40,
+	"Name": "Barcelona–El Prat Airport",
+	"City": "Barcelona",
+	"Coordinates (Lat, Lng)": "41.296944, 2.078333",
+	"Country": "Spain",
+	"Passengers": 39674095
+}, {
+	"Rank": 41,
+	"Name": "São Paulo-Guarulhos International Airport",
+	"City": "São Paulo",
+	"Coordinates (Lat, Lng)": "-23.435556, -46.473056",
+	"Country": "Brazil",
+	"Passengers": 39213865
+}, {
+	"Rank": 42,
+	"Name": "Shanghai Hongqiao International Airport",
+	"City": "Shanghai",
+	"Coordinates (Lat, Lng)": "31.198056, 121.336389",
+	"Country": "China",
+	"Passengers": 39090699
+}, {
+	"Rank": 43,
+	"Name": "Orlando International Airport",
+	"City": "Orlando",
+	"Coordinates (Lat, Lng)": "28.429444, -81.308889",
+	"Country": "United States",
+	"Passengers": 38727749
+}, {
+	"Rank": 44,
+	"Name": "Taiwan Taoyuan International Airport",
+	"City": "Taipeh",
+	"Coordinates (Lat, Lng)": "25.076389, 121.223889",
+	"Country": "Taiwan",
+	"Passengers": 38473333
+}, {
+	"Rank": 45,
+	"Name": "Benito Juárez International Airport",
+	"City": "Mexico City",
+	"Coordinates (Lat, Lng)": "19.436111, -99.071944",
+	"Country": "Mexico",
+	"Passengers": 38433288
+}, {
+	"Rank": 46,
+	"Name": "Kunming Changshui International Airport",
+	"City": "Kunming",
+	"Coordinates (Lat, Lng)": "25.101944, 102.929167",
+	"Country": "China",
+	"Passengers": 37523345
+}, {
+	"Rank": 47,
+	"Name": "Newark Liberty International Airport",
+	"City": "Newark",
+	"Coordinates (Lat, Lng)": "40.6925, -74.168611",
+	"Country": "United States",
+	"Passengers": 37494704
+}, {
+	"Rank": 48,
+	"Name": "Narita International Airport",
+	"City": "Tokyo",
+	"Coordinates (Lat, Lng)": "35.765278, 140.385556",
+	"Country": "Japan",
+	"Passengers": 37268307
+}, {
+	"Rank": 49,
+	"Name": "Ninoy Aquino International Airport",
+	"City": "Manila",
+	"Coordinates (Lat, Lng)": "14.508611, 121.019444",
+	"Country": "Philippines",
+	"Passengers": 36583459
+}, {
+	"Rank": 50,
+	"Name": "Minneapolis/St Paul International Airport",
+	"City": "St. Paul",
+	"Coordinates (Lat, Lng)": "44.881944, -93.221667",
+	"Country": "United States",
+	"Passengers": 36556281
+}]
